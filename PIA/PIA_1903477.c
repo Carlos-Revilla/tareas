@@ -1,6 +1,6 @@
 /******************************************************************************
 
-Welcome to GDB Online.
+Welcome to GDB Online
 GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
 C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
 Code, Compile, Run and Debug online from anywhere in world.
@@ -317,7 +317,7 @@ fputc (alumnos[i].matricula[j], stream);
 	
 }
       
-fprintf (stream, "´");
+fprintf (stream, "Â´");
       
 fprintf (stream, "; %d ; %d ; %d ; %d ; %d ; %d ; %d ; %d ; %d\n",
 		alumnos[i].calif[0], alumnos[i].calif[1], alumnos[i].calif[2],
